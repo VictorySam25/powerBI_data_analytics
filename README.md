@@ -1,4 +1,5 @@
-# Soft-bite Food
+## Victory Sam portfolio Projects on Data Analytics
+# 1 Soft-bite Food
 To showcase my project on data anaysis
 **Project Brief: PowerBI Sales Dashboard for Softbite Foods Ltd.**
 
