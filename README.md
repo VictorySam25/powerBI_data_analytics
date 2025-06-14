@@ -3,6 +3,8 @@
 To showcase my project on data anaysis
 **Project Brief: PowerBI Sales Dashboard for Softbite Foods Ltd.**
 
+**databoard: https://github.com/VictorySam25/powerBI_data_analytics/blob/main/softbyteSales%20Dashboard-moon.pbix**
+
 **Project Overview:**
 The PowerBI Sales Dashboard has been designed to provide Softbite Foods Ltd. with a comprehensive and interactive visualization of their sales performance across various regions and metrics. This dashboard is a critical tool for the company to monitor and analyze their sales, shipments, costs, and profits in real-time, enabling data-driven decision-making.
 
